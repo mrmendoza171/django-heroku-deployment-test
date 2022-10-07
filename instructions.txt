@@ -24,3 +24,12 @@
 - create Procfile
     - web:gunicorn <django_project>.wsgi
 
+- add heroku site in ALLOWED_HOSTS
+
+
+- add environment variables for DEBUG and SECRET_KEY
+
+
+
+
+
