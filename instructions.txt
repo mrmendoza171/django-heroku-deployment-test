@@ -29,6 +29,19 @@
 
 - add environment variables for DEBUG and SECRET_KEY
 
+- check addons: heroku addons
+- add postgres: heroku addons: create heroku-postgresql:hobby-dev
+- heroku pg
+
+
+- pip install django-heroku
+- import django_heroku in settings.py
+- django_heroku.settings(locals())
+
+
+- update requirements.txt
+- heroku run python manage.py migrate
+- heroku run bash
 
 
 
