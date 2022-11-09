@@ -1,7 +1,7 @@
 # django-heroku-deployment-test
+[Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku](https://www.youtube.com/watch?v=6DI_7Zja8Zc)
 Testing and documenting steps to upload project to Heroku
 
-[Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku](https://www.youtube.com/watch?v=6DI_7Zja8Zc)
 
 - install heroku
 - login to heroku from CLI
